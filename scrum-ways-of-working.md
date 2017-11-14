@@ -1,17 +1,5 @@
 # Ways of Working
 
-* [Overview](#Overview)
-* [Definition of Done](#markdown-header-definition-of-done)
-* [Issue tracking](#markdown-header-issue-tracking)
-* [Topic branches](#markdown-header-topic-branches)
-* [Commit messages](#markdown-header-commit-messages)
-* [Changelog](#markdown-header-commit-changelog)
-* [Code review](#markdown-header-code-review)
-* [Release](#markdown-header-release)
-* [Gitflow](#markdown-header-gitflow)
-
-
-
 ## Overview
 
 This project is version tracked with Git and available in the [my-project](LINK TO REPO) repository on Bitbucket.
