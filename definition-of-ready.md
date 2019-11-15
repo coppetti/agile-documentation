@@ -13,7 +13,7 @@ It will save much time if each user story meets Definition of Ready before the S
 * Fulltime on project = X hours per day;
 * All User Stories meet Definition of Ready;
 
-## Definition od Ready for User Stories
+## Definition ofReady for User Stories
 
 * Previous research was performed to realise all dependencies to accomplish the task (when applicable);
 * User Story defined;
